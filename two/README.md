@@ -1,4 +1,4 @@
-# Project live at : https://react-video-ogiywhcrl-karubs-projects.vercel.app/
+# Project live at : https://react-video-r1mnzuj29-karubs-projects.vercel.app
 
 # i am learning react so this i learn and made from 6 pack programmer : https://www.youtube.com/@6PackProgrammer
 
