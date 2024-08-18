@@ -1,4 +1,4 @@
-# Live at : (https://react-portfolio-67wq8jtk7-karubs-projects.vercel.app)
+# Live at : https://react-portfolio-dvv7wzbiy-karubs-projects.vercel.app/
 
 # Getting Started with Create React App
 
